@@ -1,6 +1,6 @@
-# 🚀 Express + TypeScript + Prisma + PostgreSQL Boilerplate
+# 🚀 Express + TypeScript + Prisma + PostgreSQL Backend
 
-A production-ready backend boilerplate built with Node.js, Express, TypeScript, and Prisma ORM. Designed with a strict four-layer architecture, full JWT authentication (access + refresh token rotation), comprehensive test coverage (unit + integration), and a Docker-first development workflow.
+A production-ready backend built with Node.js, Express, TypeScript, and Prisma ORM. Designed with a strict four-layer architecture, full JWT authentication (access + refresh token rotation), comprehensive test coverage (unit + integration), and a Docker-first development workflow.
 
 ---
 
@@ -192,7 +192,7 @@ This handles everything: copies env files from examples, builds the Docker image
 
 ```bash
 git clone <repo-url>
-cd express-ts-pg-prisma-boilterplate
+cd express-ts-pg-prisma-backend
 ```
 
 Copy the environment files:
